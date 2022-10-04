@@ -11,4 +11,6 @@
 
 - Bridge Pattern solves this problem by switching inheritance to composition so we will extract one of the dimention into a separate class hirearchy 
 
+- Separate Abstraction (Shape) from implementation (Color)
+
 ![Scheme](solution.png)
